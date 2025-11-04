@@ -153,7 +153,7 @@ Tabs.Main5:AddButton({
 	end
 })
 
-Tabs.Main5:AddButton({
+Tabs.Main4:AddButton({
 	Title = "Quantum",                             -- 👈 tên nút hiển thị
 	Description = " script giúp làm sk mới  ",-- 👈 mô tả
 	Callback = function()
